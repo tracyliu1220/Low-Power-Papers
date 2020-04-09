@@ -30,11 +30,31 @@ Papers for Low Power
     - [slide](https://drive.google.com/open?id=1oD6_EKiOaCI045i1ni0a9ZOfnJZk2FK8Wh1hbgaCyro)
 - [x] [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs](https://arxiv.org/abs/1903.04120) CVPR'19
     - [slide](https://docs.google.com/presentation/d/1NoLE_Jcnap18vvnQ5AnTxR6T-j0Rf093XZnH22DHSU4/edit?usp=sharing)
+- [ ] [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360) ICLR'17
 
-#### Pruning Methods
+#### Pruning and Compression Methods
 - [x] [DSD: Dense-Sparse-Dense Training for Deep Neural Networks](https://arxiv.org/abs/1607.04381) ICRL'17
     - [slide](https://drive.google.com/open?id=19iIZbmaxwFnSQXK55i3T547HZ9rC990ltpprVt1h48o)
 - [ ] [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342) ICCV'17
+- [ ] [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) arXiv'16
+- [ ] [Structured Pruning of Deep Convolutional Neural Networks](https://arxiv.org/abs/1512.08571) arXiv'15
+- [ ] [Channel-Level Acceleration of Deep Face Representations](https://ieeexplore.ieee.org/document/7303876) IEEE'15
+- [ ] [Learning both Weights and Connections for Efficient Neural Network](https://arxiv.org/abs/1506.02626) NeurIPS'15
+- [ ] [NISP: Pruning Networks Using Neuron Importance Score Propagation](https://arxiv.org/abs/1711.05908) IEEE CVPR'18
+- [ ] [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) arXiv'16
+- [ ] [Less Is More: Towards Compact CNNs](http://users.umiacs.umd.edu/~hzhou/paper/zhou_ECCV2016.pdf) ECCV'16
+
+#### Quantization
+
+- [x] [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877) CVPR'18
+    - [slide](https://docs.google.com/presentation/d/1iYgn-WsGqd2sIIWsVvbW3GS_Loqus2FW9py26HdOZM4/edit?usp=sharing)
+- [ ] [LightNN: Filling the Gap between Conventional Deep Neural Networks and Binarized Networks](https://arxiv.org/abs/1802.02178) GGVLSI'17
+- [ ] [CompactNet: High Accuracy Deep Neural Network Optimized for On-Chip Implementation](https://ieeexplore.ieee.org/document/8622329) IEEE'18
+- [ ] [FLightNNs: Lightweight Quantized Deep Neural Networks for Fast and Accurate Inference](https://arxiv.org/abs/1904.02835) ACMDAC'19
+- [ ] [Minimum Energy Quantized Neural Networks](https://arxiv.org/abs/1711.00215) arXiv'17
+- [ ] [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/abs/1602.02830) arXiv'16
+- [ ] [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/abs/1603.05279) arXiv'16
+- [ ] [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160) arXiv'18
 
 #### To Be Classified
 
