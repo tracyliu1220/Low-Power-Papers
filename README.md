@@ -31,6 +31,13 @@ Papers for Low Power
 - [x] [HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs](https://arxiv.org/abs/1903.04120) CVPR'19
     - [slide](https://docs.google.com/presentation/d/1NoLE_Jcnap18vvnQ5AnTxR6T-j0Rf093XZnH22DHSU4/edit?usp=sharing)
 - [ ] [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360) ICLR'17
+- [x] [CSPNet: A New Backbone that can Enhance Learning Capability of CNN
+](https://arxiv.org/abs/1911.11929) arXiv'19
+    - [slide](https://docs.google.com/presentation/d/1y9PSaWmt4kMY5njdH5ziuvDSHPbikjjfhUUPdI-wFgI/edit)
+- [x] ESPNet[v1](https://arxiv.org/abs/1803.06815)/[v2](https://arxiv.org/abs/1811.11431)
+    - [slide](https://docs.google.com/presentation/d/1uzNZNMkZe6NdxAuZlk8_Bt-RgE6H2pz5WS28dNBN0Xs/edit)
+- [x] [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070) IEEE'20
+    - [slide](https://docs.google.com/presentation/d/1FZso--QzVO9-MLFblIHlV5gGL2lbLgXshI5Cyxda990/edit)
 
 #### Pruning and Compression Methods
 - [x] [DSD: Dense-Sparse-Dense Training for Deep Neural Networks](https://arxiv.org/abs/1607.04381) ICRL'17
@@ -43,6 +50,9 @@ Papers for Low Power
 - [ ] [NISP: Pruning Networks Using Neuron Importance Score Propagation](https://arxiv.org/abs/1711.05908) IEEE CVPR'18
 - [ ] [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) arXiv'16
 - [ ] [Less Is More: Towards Compact CNNs](http://users.umiacs.umd.edu/~hzhou/paper/zhou_ECCV2016.pdf) ECCV'16
+- [x] [Learning Filter Basis for Convolutional Neural Network Compression](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Learning_Filter_Basis_for_Convolutional_Neural_Network_Compression_ICCV_2019_paper.pdf) ICCV'19
+    - [slide](https://docs.google.com/presentation/d/1luZ4VEbL2UsFJXdbg92Ym0EvyjvUkG0fzk4eV-oOwjw/edit?fbclid=IwAR1tyf2GfSGuQ3A_74WKhnEA_Ra30kXbLjLf7qeV2t9iQXZyhuPBG_d4714#slide=id.p)
+
 
 #### Quantization
 
@@ -53,7 +63,8 @@ Papers for Low Power
 - [ ] [FLightNNs: Lightweight Quantized Deep Neural Networks for Fast and Accurate Inference](https://arxiv.org/abs/1904.02835) ACMDAC'19
 - [ ] [Minimum Energy Quantized Neural Networks](https://arxiv.org/abs/1711.00215) arXiv'17
 - [ ] [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/abs/1602.02830) arXiv'16
-- [ ] [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/abs/1603.05279) arXiv'16
+- [x] [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/abs/1603.05279) arXiv'16
+    - [slide](https://docs.google.com/presentation/d/1DV5X7T2AhCv32hyS1R-xTqO5ERs2okbel0ABZs2MH8k/edit)
 - [ ] [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160) arXiv'18
 
 #### To Be Classified
@@ -71,6 +82,8 @@ Papers for Low Power
     - [slide](https://docs.google.com/presentation/d/1Bz0DGheO7xo7EU9z6pjYtIXqv_MVTpQLPGO6jdtB7Ww/edit?usp=sharing)
 - [x] [Mask R-CNN](https://arxiv.org/abs/1703.06870) arXiv'18
     - [slide](https://docs.google.com/presentation/d/1wRyyQMWCFOVYw7zRxqD226zQdVKqaprrWrqikQ_9Jd0/edit?usp=sharing)
+- [x] [Efficient Featurized Image Pyramid Network for Single Shot Detector](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Efficient_Featurized_Image_Pyramid_Network_for_Single_Shot_Detector_CVPR_2019_paper.pdf) CVPR'19
+    - [slide](https://docs.google.com/presentation/d/1OpXbwOdqn6VwVVq_Z3tIrwjrYGtf5bQsEFI-PL9L-Cw/edit?fbclid=IwAR0M3gZSaXQTUYGXS9GAPZH8WGxHs_p6evzJ53ocIQZeJICVgUhbB8CQ8u4#slide=id.p)
 
 ## Articles
 
